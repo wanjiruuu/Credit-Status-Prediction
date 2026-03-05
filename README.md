@@ -5,7 +5,7 @@ It is a dataset describing bank credit status of clients.
 
 ### Project Summary 
 
-This project addresses critical challenges in financial lending by analyzing a loan dataset to predict/classify loan status. The dataset contains 100,000 observations across 19 variables, including borrower demographics and loan characteristics.
+This project addresses critical challenges in financial lending by analyzing a loan dataset to predict/classify credit status. The dataset contains 100,000 observations across 19 variables, including borrower demographics and loan characteristics.
 
 Data preparation included handling missing values, removing duplicates, and addressing outliers in income and employment length. We used pandas for data manipulation and scikit-learn for preprocessing, applying StandardScaler for feature scaling and LabelEncoder for categorical variables.
 
